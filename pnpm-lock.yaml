@@ -9,14 +9,14 @@ importers:
       '@types/react-dom': ^17.0.11
       typescript: ^4.5.5
       vite: ^2.8.4
-      vite-plugin-ssr: 0.4.0-beta.2
+      vite-plugin-ssr: 0.4.0-beta.3
     devDependencies:
       '@types/node': 17.0.23
       '@types/react': 17.0.43
       '@types/react-dom': 17.0.14
       typescript: 4.6.3
       vite: 2.9.1
-      vite-plugin-ssr: 0.4.0-beta.2_vite@2.9.1
+      vite-plugin-ssr: 0.4.0-beta.3_vite@2.9.1
 
   app:
     specifiers:
@@ -27,7 +27,7 @@ importers:
       react-dom: ^17.0.2
       renderer: link:../
       vite: ^2.8.4
-      vite-plugin-ssr: 0.4.0-beta.2
+      vite-plugin-ssr: 0.4.0-beta.3
     dependencies:
       '@vitejs/plugin-react': 1.3.0
       cross-env: 7.0.3
@@ -36,7 +36,7 @@ importers:
       react-dom: 17.0.2_react@17.0.2
       renderer: link:..
       vite: 2.9.1
-      vite-plugin-ssr: 0.4.0-beta.2_vite@2.9.1
+      vite-plugin-ssr: 0.4.0-beta.3_vite@2.9.1
 
 packages:
 
@@ -1423,8 +1423,8 @@ packages:
   /vite-plugin-import-build/0.1.3:
     resolution: {integrity: sha512-N4oRY6Mv5l1qVODcAw1W6Xw1hiW9y8uVs6vqBy0dCTayCu5/7IRmUmjpc+wrBdSS2b/cZYkLX/xHgFyjXlaXtg==}
 
-  /vite-plugin-ssr/0.4.0-beta.2_vite@2.9.1:
-    resolution: {integrity: sha512-PugeBuenXwlpnWbmC/CGyDs+7rsLxsuvU3kPRF9s1Hs2jOCx7SUOQHp4k8+vZUuMxKYqBuhgay4bze6h3u3BkQ==}
+  /vite-plugin-ssr/0.4.0-beta.3_vite@2.9.1:
+    resolution: {integrity: sha512-eVht9OB2tvNA2bS6rHLSLJC7bd8gowOBbSKMNMKp6lMV0Ipk4BWDxX1LP/tJGE99oWToALhXQEviVzAPU5zqNw==}
     engines: {node: '>=12.19.0'}
     hasBin: true
     peerDependencies:
